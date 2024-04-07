@@ -9,3 +9,4 @@ The performance of companies relies on suppliers to supply them with the necessa
 
 https://app.swaggerhub.com/apis/AMNAQALKHATEEB_1/amna/1.0.0#/
 ![image](https://github.com/Amna-Alkhateeb/inventory-management-system/assets/140759891/c983b395-755d-4a45-93bb-f0fb06906ab2)
+https://docs.google.com/document/d/1OIKRd7VoAA8rz1XCIYNpKYGRJEeFpvQH8TjGcmG1Ve4/edit?usp=sharing
