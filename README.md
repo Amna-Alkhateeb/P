@@ -5,5 +5,7 @@
 Product information typically includes the name, description, price, available quantity and other relevant details.
 4-Suppliers:Suppliers are the entities that provide goods or services to companies or end customers.
 The performance of companies relies on suppliers to supply them with the necessary materials for producing products or providing services.
+
+
 https://app.swaggerhub.com/apis/AMNAQALKHATEEB_1/amna/1.0.0#/
-![image](https://github.com/Amna-Alkhateeb/inventory-management-system/assets/140759891/8e6d49af-42a4-426c-b2a4-8e734febcb88)
+![image](https://github.com/Amna-Alkhateeb/inventory-management-system/assets/140759891/1844664e-dc88-4e46-b2cc-0684d9566b47)
